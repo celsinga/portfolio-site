@@ -15,7 +15,7 @@ class Contact extends Component {
             <img src={Map} class="co1" alt="Map"></img>
           </div>
         </div>
-        <a href="https://resume.creddle.io/resume/8nkxjv6eyoo" target="_blank">
+        <a href="https://resume.creddle.io/resume/8nkxjv6eyoo" target="_blank" rel="noreferrer">
           <div className="back3">Get Resume</div>
         </a>
         <a href="mailto:colinelsinga@gmail.com">

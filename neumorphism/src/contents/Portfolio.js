@@ -15,7 +15,7 @@ class Portfolio extends Component {
         <div class="port_out port1">
           <p>Scheduler - React SPA</p>
           <div class="port_in">
-            <a href="https://github.com/celsinga/scheduler" target="_blank">
+            <a href="https://github.com/celsinga/scheduler" target="_blank" rel="noreferrer">
               <img
                 src={project1}
                 className="po1"
@@ -27,7 +27,7 @@ class Portfolio extends Component {
         <div class="port_out port2">
           <p>NBA Dashboard - React Analytics</p>
           <div class="port_in">
-            <a href="https://github.com/celsinga/nba-dashboard" target="_blank">
+            <a href="https://github.com/celsinga/nba-dashboard" target="_blank" rel="noreferrer">
               <img
                 src={project2}
                 className="po1"
@@ -39,7 +39,7 @@ class Portfolio extends Component {
         <div class="port_out port3">
           <p>altru.link - Artist Website</p>
           <div class="port_in">
-            <a href="http://altru.link/" target="_blank">
+            <a href="http://altru.link/" target="_blank" rel="noreferrer">
               <img src={project3} className="po1" alt="Artist Website"></img>
             </a>
           </div>
@@ -47,7 +47,7 @@ class Portfolio extends Component {
         <div class="port_out port4">
           <p>Blockchain Model - JS Prototype</p>
           <div class="port_in">
-            <a href="https://github.com/celsinga/blockchain-model" target="_blank">
+            <a href="https://github.com/celsinga/blockchain-model" target="_blank" rel="noreferrer">
               <img src={project4} className="po1" alt="JS Blockchain model"></img>
             </a>
           </div>
