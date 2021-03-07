@@ -6,7 +6,7 @@ class Social extends Component {
       <div class="social">
         <a
           class="btnsame btn1"
-          href="https://github.com/vikalp2502"
+          href="https://github.com/celsinga"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -14,7 +14,7 @@ class Social extends Component {
         </a>
         <a
           class="btnsame btn2"
-          href="https://twitter.com/@kaushik_vikalp"
+          href="https://twitter.com/@colincodes1"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -22,19 +22,11 @@ class Social extends Component {
         </a>
         <a
           class="btnsame btn3"
-          href="https://linkedin.com/in/vikalp-kaushik-99966a1ab"
+          href="https://www.linkedin.com/in/colin-elsinga-989647103/"
           target="_blank"
           rel="noopener noreferrer"
         >
           <i class="fa fa-linkedin"></i>
-        </a>
-        <a
-          class="btnsame btn4"
-          href="https://instagram.com/vikalp._.kaushik"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <i class="fa fa-instagram"></i>
         </a>
       </div>
     );

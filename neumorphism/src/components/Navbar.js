@@ -1,6 +1,6 @@
 import { Component } from "react";
 import Navitem from "./Navitem";
-import profilepic from "../img/profile_photo.jpg";
+import profilepic from "../img/me.PNG";
 
 class Navbar extends Component {
   constructor(props) {
@@ -32,9 +32,10 @@ class Navbar extends Component {
           </div>
         </div>
         <h2>
-          Vikalp <mark>Kaushik</mark>
+          Colin Elsinga
         </h2>
         <p>Full Stack Developer</p>
+        <p>📍 Vancouver, BC</p>
         <ul>
           <Navitem item="Home" tolink="/" activec={this.activeitem}></Navitem>
           <Navitem

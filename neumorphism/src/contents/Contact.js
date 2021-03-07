@@ -1,6 +1,6 @@
 import { Component } from "react";
 import Social from "../components/Social";
-import Map from "../img/map.png";
+import Map from "../img/vancouver.png";
 
 class Contact extends Component {
   render() {
@@ -15,11 +15,11 @@ class Contact extends Component {
             <img src={Map} class="co1" alt="Map"></img>
           </div>
         </div>
-        <a href="#">
-          <div className="back3">Download Resume</div>
+        <a href="https://resume.creddle.io/resume/8nkxjv6eyoo" target="_blank">
+          <div className="back3">Get Resume</div>
         </a>
-        <a href="mailto:youremail@gmail.com">
-          <div className="back3 back4">Contact Me</div>
+        <a href="mailto:colinelsinga@gmail.com">
+          <div className="back3 back4">Email</div>
         </a>
         <div className="hr_line line3">
           <div className="inner3"></div>
